@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{7B14CDD1-74A1-4986-AC9B-15E42D8DD6CB}"
+	ProjectSection(SolutionItems) = preProject
+		01-合并单选框.html = 01-合并单选框.html
+		02-表单标签input基本使用.html = 02-表单标签input基本使用.html
+		03-表单占位符.html = 03-表单占位符.html
+		04-表单单元框.html = 04-表单单元框.html
+		05-表单上传文件.html = 05-表单上传文件.html
+		06-表单按钮.html = 06-表单按钮.html
+		07-表单button.html = 07-表单button.html
+		08-表单下拉菜单.html = 08-表单下拉菜单.html
+		09-表单文本域.html = 09-表单文本域.html
+		10-表单lable.html = 10-表单lable.html
+		11-没有语义的标签.html = 11-没有语义的标签.html
+		12-手机端网页.html = 12-手机端网页.html
+		13-字符实体.html = 13-字符实体.html
+		14-综合案例：学生信息表.html = 14-综合案例：学生信息表.html
+		15-综合案例：恋爱网站.html = 15-综合案例：恋爱网站.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E868AEC-A1C1-48A3-907E-4FDC2FDE1911}
+	EndGlobalSection
+EndGlobal
